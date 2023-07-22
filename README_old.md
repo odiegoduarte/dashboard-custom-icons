@@ -1,0 +1,23 @@
+<br><br>
+
+![Logo](/assets/dashboardcustomicons.png)
+
+<br><br> 
+
+### Dashboards self-hosted:
+
+- [Heimdall](https://github.com/linuxserver/Heimdall)
+- [Dashy](https://github.com/Lissy93/dashy)
+- [Homer](https://github.com/bastienwirtz/homer)
+- [Flame](https://github.com/pawelmalak/flame)
+- [Organizr](https://github.com/causefx/Organizr)
+- [Homarr](https://github.com/ajnart/homarr)
+- [Homepage](https://github.com/benphelps/homepage)
+
+
+<br><br> 
+
+<img src="png/ackee.png" alt="ackee" width="50"> <img src="png/adguard-home.png" alt="adguard-home" width="50"> <img src="png/adminer.png" alt="adminer" width="50"> <img src="png/anydesk.png" alt="anydesk" width="50"> <img src="png/bitwarden.png" alt="bitwarden" width="50"> <img src="png/casaos.png" alt="casaos" width="50"> <img src="png/cockpit.png" alt="cockpit" width="50"> <img src="png/cups.png" alt="cups" width="50"> <img src="png/d-link.png" alt="d-link" width="50"> <img src="png/dns.png" alt="dns" width="50"> <img src="png/docker.png" alt="docker" width="50"> <img src="png/easywi.png" alt="easywi" width="50"> <img src="png/equipment.png" alt="equipment" width="50"> <img src="png/grafana.png" alt="grafana" width="50"> <img src="png/graylog.png" alt="graylog" width="50"> <img src="png/he-bgp.png" alt="he-bgp" width="50"> <img src="png/homeassistant.png" alt="homeassistant" width="50"> <img src="png/hpe.png" alt="hpe" width="50"> <img src="png/huawei.png" alt="huawei" width="50"> <img src="png/intelbras-nvr.png" alt="intelbras-nvr" width="50"> <img src="png/ipfire.png" alt="ipfire" width="50"> <img src="png/jellyfin.png" alt="jellyfin" width="50"> <img src="png/mac-address.png" alt="mac-address" width="50"> <img src="png/mercusys.png" alt="mercusys" width="50"> <img src="png/mikrotik.png" alt="mikrotik" width="50"> <img src="png/mineos.png" alt="mineos" width="50"> <img src="png/nextcloud.png" alt="nextcloud" width="50"> <img src="png/noip.png" alt="noip" width="50"> <img src="png/nokia.png" alt="nokia" width="50"> <img src="png/octoprint.png" alt="octoprint" width="50"> <img src="png/openmediavault.png" alt="openmediavault" width="50"> <img src="png/openspeedtest.png" alt="openspeedtest" width="50"> <img src="png/openwrt.png" alt="openwrt" width="50"> <img src="png/opnsense.png" alt="opnsense" width="50"> <img src="png/owncloud.png" alt="owncloud" width="50"> <img src="png/pfsense.png" alt="pfsense" width="50"> <img src="png/pgadmin.png" alt="pgadmin" width="50"> <img src="png/phpmyadmin.png" alt="phpmyadmin" width="50"> <img src="png/pihole.png" alt="pihole" width="50"> <img src="png/pixelti.png" alt="pixelti" width="50"> <img src="png/plex.png" alt="plex" width="50"> <img src="png/portainer.png" alt="portainer" width="50"> <img src="png/proxmox.png" alt="proxmox" width="50"> <img src="png/qbittorrent.png" alt="qbittorrent" width="50"> <img src="png/rclone.png" alt="rclone" width="50"> <img src="png/rocketchat.png" alt="rocketchat" width="50"> <img src="png/samba-server.png" alt="samba-server" width="50"> <img src="png/services.png" alt="services" width="50"> <img src="png/snapdrop.png" alt="snapdrop" width="50"> <img src="png/syncthing.png" alt="syncthing" width="50"> <img src="png/teamviewer.png" alt="teamviewer" width="50"> <img src="png/test-ipv6.png" alt="test-ipv6" width="50"> <img src="png/tplink.png" alt="tplink" width="50"> <img src="png/transmission.png" alt="transmission" width="50"> <img src="png/truenas.png" alt="truenas" width="50"> <img src="png/unifi.png" alt="unifi" width="50"> <img src="png/unraid.png" alt="unraid" width="50"> <img src="png/uptime-kuma.png" alt="uptime-kuma" width="50"> <img src="png/urlscan-io.png" alt="urlscan-io" width="50"> <img src="png/vm-linux.png" alt="vm-linux" width="50"> <img src="png/vm-windows.png" alt="vm-windows" width="50"> <img src="png/vm.png" alt="vm" width="50"> <img src="png/vm_images.png" alt="vm_images" width="50"> <img src="png/wazuh.png" alt="wazuh" width="50"> <img src="png/webmin.png" alt="webmin" width="50"> <img src="png/whatismyipaddress.png" alt="whatismyipaddress" width="50"> <img src="png/wifi.png" alt="wifi" width="50"> <img src="png/xenorchestra.png" alt="xenorchestra" width="50"> <img src="png/xigmanas.png" alt="xigmanas" width="50"> <img src="png/zabbix.png" alt="zabbix" width="50"> <img src="png/zerotier.png" alt="zerotier" width="50"> <img src="png/zoneminder.png" alt="zoneminder" width="50"> <img src="png/zyxel_1.png" alt="zyxel_1" width="50"> <img src="png/zyxel_2.png" alt="zyxel_2" width="50">
+
+<br><br> 
+
